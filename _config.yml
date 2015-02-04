@@ -3,8 +3,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            PF 
-tagline:          Swimming along ... 
+title:            Pondering Fish
+tagline:          Swimming through life ... 
 url:              http://ponderingfish.github.io/
 paginate:         1
 baseurl:          /
