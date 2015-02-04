@@ -9,7 +9,6 @@ According to the <a href="http://sacred-texts.com/hin/gpu/index.htm" target="_bl
 ahiMsA sUnR^itA vANI satyashauche kShamA dayA |
 varNinAM li~NginAM chaiva sAmAnyo dharma uchyate || 1,213.22 ||
 </blockquote>
-
 This simple <a href="http://en.wikipedia.org/wiki/Shloka" target="_blank">shloka</a> captures the essence of a beautiful and simple lifestyle in two lines. Here's a rough English translation (help me if you can improve it) --
 <blockquote>
 Non-violence, non-hurtful speech, truthfulness, cleanliness, patience/tolerance, and compassion  -- these are the duties for all genders and classes of society -- equally.
