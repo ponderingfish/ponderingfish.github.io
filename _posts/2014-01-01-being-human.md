@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Being human
+tags: life humanity ahimsa
 ---
 
 According to the <a href="http://sacred-texts.com/hin/gpu/index.htm" target="_blank">GaruDa puraNa</a> (an ancient Hindu text) :-
