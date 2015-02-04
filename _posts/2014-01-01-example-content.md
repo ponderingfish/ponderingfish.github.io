@@ -3,136 +3,29 @@ layout: post
 title: Example content
 ---
 
+According to the <a href="http://sacred-texts.com/hin/gpu/index.htm" target="_blank">GaruDa puraNa</a> (an ancient Hindu text) :-
 
-<div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
+<blockquote>
+ahiMsA sUnR^itA vANI satyashauche kShamA dayA |
+varNinAM li~NginAM chaiva sAmAnyo dharma uchyate || 1,213.22 ||
+</blockquote>
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+This simple <a href="http://en.wikipedia.org/wiki/Shloka" target="_blank">shloka</a> captures the essence of a beautiful and simple lifestyle in two lines. Here's a rough English translation (help me if you can improve it) --
+<blockquote>
+Non-violence, non-hurtful speech, truthfulness, cleanliness, patience/tolerance, and compassion  -- these are the duties for all genders and classes of society -- equally.
+</blockquote>
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+This list just cuts through all the noise and gets to the issue at hand. Be kind to others, speak the truth, try not hurt another living being (not just humans - mind you!), show compassion, lend a helping hand, donate, hold someone's hand when they need one, lend a shoulder if someone has tears in their eyes, stay clean and keep your surroundings clean -- its what makes us humans!
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+In today's day and age, it is nearly impossible to find a single person who fits this bill. But wouldn't it be great if everyone practices all of these to some extent? My favorite in this list is "non-hurtful speech". It's so easy to blurt out a cuss word at someone and then you realize that it will never ever go away. Words hurt much much more in the long run than actions. An extension to this (a hidden maxim perhaps) is to not feel happy when someone else gets hurt. Now that's the real toughie! When you see someone you hate get hurt, try not to feel happy. It's really difficult -- I just tried and failed.
 
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-## Heading
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-### Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-{% highlight js %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-### Gists via GitHub Pages
-
-Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
-
-{% gist 5555251 gist.md %}
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.
-
-### Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
-
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
-
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-### Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](http://placehold.it/800x400 "Large example image")
-![placeholder](http://placehold.it/400x200 "Medium example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
-
-### Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+And here's what -- I want to live up to this shloka. I am positive that it will improve my life, the relationships I have and those I will make in the future, and just make the sound of the bees and the birds oh-so-sweeter!
+<ol>
+	<li><strong>Speak the truth Period.</strong> But come onnnnnn, speak the truth always? I mean, there are white-lies, lies and not-the-full-truths. You just have to do this one cold-turkey. I am going to say the truth or not say anything at all. As a corollary, you might want to dig into your closets and get rid of any lurking secrets.</li>
+	<li><strong>Keep my house and my neighborhood clean:</strong> I am going to take out the trash often, recycle when possible, declutter.</li>
+	<li><strong>Trim down what I own: </strong>This is part of the whole declutter strategy, and it basically boils down to owning only what you need and packing/filing/donating the rest to someone who'd appreciate or needs it more than you (or your closet does).</li>
+	<li><strong>Stop being judgmental: </strong>Every single person has their own personal battles and struggles and faces a plethora of trials day in and out. Let's give them a break and not judge them. On the flip side, its often said that a person ignores his own faults even if they are as big as an elephant, but seeks to call out another person whose faults are as tiny as a mustard seed. Its time to look in the mirror, take a deep breath, and smile.</li>
+	<li><strong>Yes, smile: </strong>A smile can take you a mile. It costs nothing, can be infectious, can diffuse a tense situation, and can bring the best people into your life! So let's just smile :)</li>
+	<li><strong>Being grateful: </strong>The list of people/things that I have have gratitude for is endless - my parents, wife, siblings, friends, teachers, the guy who operates the snow plow, the farmer who ensures I have food to eat, the guy who goes into the underbelly of the my city to ensure that the sewage lines aren't clogged up, to the sun and moon, the cool breeze that makes me sigh in relief on a sweltering hot summer afternoon, to the countless stars that hold me in rapture every night and will continue to do so for as long as I will live.</li>
+</ol>
+Okay, enough about me -- what do you pledge to do to make your life and the lives of others around you, better? Share and be an inspiration :)
