@@ -4,8 +4,7 @@ title: Being human
 tags: life humanity ahimsa
 ---
 
-According to the <a href="http://sacred-texts.com/hin/gpu/index.htm" target="_blank">GaruDa puraNa</a> (an ancient Hindu text) :-
-
+According to the <a href="http://sacred-texts.com/hin/gpu/index.htm" target="_blank">GaruDa puraNa</a> (an ancient Hindu text)
 <blockquote>
 ahiMsA sUnR^itA vANI satyashauche kShamA dayA |
 varNinAM li~NginAM chaiva sAmAnyo dharma uchyate || 1,213.22 ||
