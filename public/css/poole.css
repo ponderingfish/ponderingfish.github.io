@@ -310,19 +310,21 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
+  font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 .masthead-title a {
   color: #505050;
 }
 .masthead-title small {
-  font-size: 75%;
+  font-size: 65%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #A80000;
   letter-spacing: 0;
 }
 
