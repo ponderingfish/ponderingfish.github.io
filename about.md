@@ -7,3 +7,5 @@ I think a lot about a lot of things – some useful and some not so much! I love
 I am going to chronicle my thoughts, my understanding of philosophy, and occasional rants and shout-outs to awesome people I come across!
 
 See ya!
+
+PS: This site is powered by GitHub pages and Jekyll. And here's a great tuturial on <a href="https://support.zendesk.com/hc/en-us/articles/203691016-Formatting-text-with-Markdown#topic_xqx_mvc_43__row_ppv_wln_1n" target="_blank">Markdown syntax</a>.
