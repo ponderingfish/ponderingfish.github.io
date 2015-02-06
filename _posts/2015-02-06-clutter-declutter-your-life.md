@@ -4,10 +4,10 @@ title: Clutter declutter
 ---
 There are days when I can find my car keys and office ID when I need them and there are days when they refuse to be found. Intense statistical analysis has proved without doubt, that they prefer not to be found. Why I ask. Do I ill-treat them? Have I disrespected them? Why aren't they where I want them to be? In the midst of all of this metaphysical analysis of the missing-key-conundrum, the answer was staring me in the face -- I am simply dis-organized and yes, my house is cluttered. 
 
-Clutter is a term I've grown to despise. When I hear the word "clutter", I immediately come up with the following responses:-
-* My table is not cluttered -- ask me for anything and I'll tell you where it is. 
-* What???? Clutter? You know what? I think you're just hyper-intra-ultra-clean! You need to see a shrink -- you're OCD man! 
-* Whatever .. (dramatic roll of the eyes follows).
+Clutter is a term I've grown to despise. When I hear the word "clutter", my general response is somewhere along the lines of,
++ My table is not cluttered -- ask me for anything and I'll tell you where it is. 
++ What?? I think you need to see a shrink -- you have OCD. My table is how it should be. 
++ Whatever .. (dramatic roll of the eyes follows).
 
 It is not all difficult and here is how I am going to do it in my life.
 
