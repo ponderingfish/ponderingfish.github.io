@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Pondering Fish 
 tagline:          Swimming through life
 url:              http://ponderingfish.github.io
-paginate:         1
+paginate:         10
 baseurl:          /
 author:
   name:           Pondering Fish
