@@ -11,6 +11,7 @@ This simple <a href="http://en.wikipedia.org/wiki/Shloka" target="_blank">shloka
 <blockquote>
 Non-violence, non-hurtful speech, truthfulness, cleanliness, patience/tolerance, and compassion  -- these are the duties for all genders and classes of society -- equally.
 </blockquote>
+<!--more-->
 
 This list just cuts through all the noise and gets to the issue at hand. Be kind to others, speak the truth, try not hurt another living being (not just humans - mind you!), show compassion, lend a helping hand, donate, hold someone's hand when they need one, lend a shoulder if someone has tears in their eyes, stay clean and keep your surroundings clean -- its what makes us humans!
 
