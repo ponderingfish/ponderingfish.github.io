@@ -14,12 +14,13 @@ Despite this bravado, it is time I face the fact. I clutter and I am not ashamed
 
 So anyway, I went ahead and read a lot about de-cluttering online and I boiled down all the information to suit my particular situation and here goes. 
 
-1. **Try to not litter and to clean up after myself**: I am a huge slacker in this category and its not uncommon to see a pile of plates in my kitchen's sink. To think about it, it would have taken me a couple of minutes to rinse my plate/glass and give it a quick scrub. But laziness gets in the way and I end up pushing it late into the night and it never gets done and then I have to rush to work the next morning and you can see how this tale ends (or not). The not-littering part is actually easy - I am pretty clean, but I'll make a conscious effort to be cleaner!
-2. **Eliminate duplicates**:  I like to think that I am a collector. Myy insatiable thirst for the latest mechanical pencil, gel pen, or operating system (yes, I like switching OS's) fuels the clutter in my life. I am not a hoarder (my wallet ensures that I can't be one), but I can't seem to organize the stuff I own. While showering this morning, I came up with a two-point formula :- (1) stop buying stuff, and (2) sort and classify what I already own. Here's how I am going to sort my stuff ...
+1. **Remember Mahatma Gandhi's maxim** "There is enough in this world for every man's need, but not for everyone's greed".
+2. **Try to not litter and to clean up after myself**: I am a huge slacker in this category and its not uncommon to see a pile of plates in my kitchen's sink. To think about it, it would have taken me a couple of minutes to rinse my plate/glass and give it a quick scrub. But laziness gets in the way and I end up pushing it late into the night and it never gets done and then I have to rush to work the next morning and you can see how this tale ends (or not). The not-littering part is actually easy - I am pretty clean, but I'll make a conscious effort to be cleaner!
+3. **Eliminate duplicates**:  I like to think that I am a collector. Myy insatiable thirst for the latest mechanical pencil, gel pen, or operating system (yes, I like switching OS's) fuels the clutter in my life. I am not a hoarder (my wallet ensures that I can't be one), but I can't seem to organize the stuff I own. While showering this morning, I came up with a two-point formula :- (1) stop buying stuff, and (2) sort and classify what I already own. Here's how I am going to sort my stuff ...
   + Take two boxes and label them **NEED** and **DON'T NEED**.
   + And let the sorting begin. I used a simple rule-of-thumb -- if I haven't used it in a year (like really haven't even touched it), then I probably don't need it. Some items can be exempted from this (like my power-drill - I don't need it everyday, but it is expensive and very handy when I need to drill or assembling IKEA furniture). 
   + At the end of it, either throw or donate the stuff I don't need.
-3. **Remember Mahatma Gandhi's maxim** "There is enough in this world for every man's need, but not for everyone's greed".
+
  
 I am not a fan of huge lists of do's and don'ts. I am aiming at sticking to this three-deep list and hope to de-clutter and free up my life! 
   
