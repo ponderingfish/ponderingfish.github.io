@@ -47,7 +47,8 @@ body {
   padding: 0;
 }
 html {
-  font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
+  font-family: 'Vollkorn', serif;
+  /*font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;*/
   /*font-family: Georgia,"DejaVu Serif",Times,"Times New Roman",serif;*/
   /*font-family: "Palatino Linotype","Book Antiqua","Palatino",serif;*/
   font-size: 18px;
@@ -68,7 +69,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: #cb0063;
   text-decoration: none;
 }
 a strong {
