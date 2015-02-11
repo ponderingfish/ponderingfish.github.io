@@ -2,6 +2,7 @@
 layout: post
 title: I am my own grandfather
 tags: philosophy
+comments: true
 ---
 I was listening to a talk by the great contemporary Indian philosopher [Bannanje Govindacharya](http://en.wikipedia.org/wiki/Bannanje_Govindacharya) and he talked about a very beautiful shloka from the Rig Veda. In the ancient times, a rishi (=*sage*) would "see" a Vedic mantra and hand it down generations. The shloka Bannanje spoke about was one such mantra, and here is a loose translation of it.  
 <blockquote>
