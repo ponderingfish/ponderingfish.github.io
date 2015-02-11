@@ -2,6 +2,7 @@
 layout: post
 title: Being human
 tags: life
+comments: true
 ---
 According to the <a href="http://sacred-texts.com/hin/gpu/index.htm" target="_blank">GaruDa puraNa</a> (an ancient Hindu text) :-
 <blockquote>
