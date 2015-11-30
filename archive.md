@@ -13,7 +13,7 @@ title: old posts
   <h3 id="{{ tag }}">{{ tag }}</h3>
   <ul>
   {% for post in site.categories[tag] %}
-    <li>{{ post.date | date_to_string }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>{{ post.date | date_to_string }} : <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul>
 {% endfor %}
