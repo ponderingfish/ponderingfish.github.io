@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Clutter declutter
-tags: life
+category: [politicians]
+tags: [rahul gandhi, women]
+
 comments: true
 ---
 There are days when I can find my car keys and office ID when I need them and there are days when they refuse to be found. Intense statistical analysis has proved without doubt, that they prefer not to be found. Why I ask. Do I ill-treat them? Have I disrespected them? Why aren't they where I want them to be? In the midst of all of this metaphysical analysis of the missing-key-conundrum, the answer was staring me in the face -- I am simply dis-organized and yes, my house is cluttered. 
