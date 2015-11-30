@@ -309,8 +309,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead {
   padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  padding-bottom: 0.5rem;
   font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 .masthead-title {
