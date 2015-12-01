@@ -15,7 +15,7 @@ So the questions begs to be answered -- how on Earth does a man with the "Mann k
 
 
 ![monkey baat]({{ site.baseurl }}/images/rahul-gandhi-notes-telegraph-ndtv.jpg  "Rahul Gandhi monkey baat?"){: .center-image}
-<p align="center">Rahul Gandhi's monkey baat (photo-credit : NDTV)</p>
+Rahul Gandhi's monkey baat (photo-credit : NDTV)
 
 Arnab Goswami's debates were getting painful to watch with the Congress spokespersons holding on to only one question - "Why doesn't the PM talk about all the intolerance in this country?" Seriously, why didn't he talk about this?
 
