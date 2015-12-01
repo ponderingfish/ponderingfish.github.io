@@ -12,7 +12,9 @@ Its hard not to admit that PM Modi's "Mann ki Baat" radio program is strikingly 
 
 So what exactly does PM Modi talk on the radio? Well, [apart from jamming with Obama](https://www.youtube.com/watch?v=DAsG7YPR6AQ){:target="_blank"}, he is generally found talking about new initiatives (clean India, organ donation, etc.). I think this is simply wonderful and to harness the power of the simple radio to reach out to millions of rural Indians is a stroke of brilliance. A perfect follow-up act to using holographs while on the campaign trail. 
 
-So how does a man with a great idea like "Mann ki Baat" at his disposal, with oratorical skills second-to-none, a man who doesn't need notes (unlike Rahul baba who can't remember what the three monkeys signify with the help of a cheat-sheet), a man whose vocabulary goes far beyond "women empowerment" and "my grandmother" -- how does such a leader lose the plot completely and lets a bunch of goons and motor-mouths go scot-free while not saying anything on the matter. 
+So the questions begs to be answered -- how on Earth does a man with the "Mann ki Baat" juggernaut at his disposal, a man with oratorical skills second-to-none, a man who doesn't need notes (unlike Rahul baba who can't remember what the three monkeys signify with the help of a cheat-sheet), a man whose vocabulary goes far beyond "women empowerment" and "my grandmother" -- how does such a leader lose the plot completely and lets a bunch of goons and motor-mouths go scot-free while not saying anything on the matter. 
+
+![Rahul Gandhi's mon-key baat]({{ site.url }}/images/rahul-gandhi-notes-telegraph-ndtv.jpg)
 
 Arnab Goswami's debates were getting painful to watch with the Congress spokespersons holding on to only one question - "Why doesn't the PM talk about this?" Seriously, why didn't he talk about this?
 
