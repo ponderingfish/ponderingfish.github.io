@@ -24,9 +24,12 @@ WHY?
 
 Why would he keep quiet? Especially when he has the Mann ki Baat vehicle! Come on PM Modi -- you could have held a radio + television interview and talked directly to the people in India's cowbelt. You could have given a subtle warning to the motor-mouths in the BJP and RSS to shut it. You could have innocently suggested that the Samajwadi Party and Congress get their act together and make sure that such incidents never take place again. In one fell swoop, you could have shut the award-wapsi charade even before it began. Unfortunately, you chose to stay silent and poor Anupam Kher had to bat in your place. You chose to remain silent and instead address these issues in the Parliament at the start of the Winter Session. Even though you delivered a well-crafted speech, you missed the bus by not talking when it mattered. Timing is everything and Modi certainly missed the beat on this one.
 
-A single radio show would have achieved several goals -
-* it would brought about the sense of security knowing that there is a PM who is looking out and is reactive
-* put the onus where it lies -- at the state-level. How many Karnataka Sahitya Academy winners returned their awards? Close to none! Kalburgi and Janardhan Poojary were killed in Karnataka which is being ruled by the completely inept Siddaramaiah and yet, nobody in the media bothered to grill the Congress party in a way similar to how the BJP is getting their ass kicked. Stinks of supari journalism right?
+A single radio show would have achieved several goals ..
+
+- it would brought about the sense of security knowing that there is a PM who is looking out and is reactive
+- put the onus where it lies -- at the state-level. How many Karnataka Sahitya Academy winners returned their awards? Close to none! Kalburgi and Janardhan Poojary were killed in Karnataka which is being ruled by the completely inept Siddaramaiah and yet, nobody in the media bothered to grill the Congress party in a way similar to how the BJP is getting their ass kicked.
+
+Stinks of supari journalism right?
 
 It is such a coincidence that the award-wapsi charade stopped as soon as the Bihar election results were announced. Perfectly timed huh? A few words from Modi might have tilted the balance in BJP's favor. But he chose to stay mum and the opposition pounced on this silence and branded him as a supporter of intolerance.
 
