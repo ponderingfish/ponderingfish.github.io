@@ -9,8 +9,4 @@ It appears to me that the Speaker of the House is a ring-master trying to tame h
 
 Everyone has their personal favorites when it comes to politics and I am no exception. I love to argue and defend the indefensible just like the guy next to me and for that matter - even you! So, if you see something that irks you, then I encourage you to leave a comment and start a debate. 
 
-I do request everyone to keep the discussion civil -- we are a nation of tolerant people right? (despite what Aamir Khan would like us to believe)
-
-Long live Indian politics!
-
-FYI: This site is powered by GitHub pages and Jekyll. And here's a [great tuturial on Markdown syntax](https://support.zendesk.com/hc/en-us/articles/203691016-Formatting-text-with-Markdown#topic_xqx_mvc_43__row_ppv_wln_1n).
+I do request everyone to keep the discussion civil -- we are a nation of tolerant people right? (despite what Aamir Khan would like us to believe).
