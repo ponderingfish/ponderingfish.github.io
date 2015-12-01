@@ -3,7 +3,7 @@ layout: post
 title:  "When Rahul Gandhi met empowered women"
 date:   2015-11-28 20:03:45 -0500
 category: [politicians]
-tags: [rahul gandhi, women]
+tags: [rahul gandhi, meets, women]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

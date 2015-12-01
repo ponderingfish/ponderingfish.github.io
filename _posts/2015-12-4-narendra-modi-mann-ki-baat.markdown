@@ -3,7 +3,7 @@ layout: post
 title: "Losing your voice on Mann ki Baat"
 date:   2015-12-4 08:00:00 -0500
 category: [politicians]
-tags: [narendra modi, communication]
+tags: [narendra modi, loses, communication]
 ---
 
 Its hard not to admit that PM Modi's "Mann ki Baat" radio program is strikingly refreshing and a much needed change after a decade of wondering when Dr. Manmohan Singh would open his mouth. And even if he did open his mouth, one would need a very high-speed camera (talking about several thousand frames/sec) to capture that spectacular phenomenon. I guess that's too harsh -- knowing fully well that puppets don't speak. yea. We'll let that one pass and focus on the present. 
