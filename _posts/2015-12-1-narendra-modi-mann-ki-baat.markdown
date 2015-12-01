@@ -14,7 +14,7 @@ So what exactly does PM Modi talk on the radio? Well, [apart from jamming with O
 
 So the questions begs to be answered -- how on Earth does a man with the "Mann ki Baat" juggernaut at his disposal, a man with oratorical skills second-to-none, a man who doesn't need notes (unlike Rahul baba who can't remember what the three monkeys signify with the help of a cheat-sheet), a man whose vocabulary goes far beyond "women empowerment" and "my grandmother" -- how does such a leader lose the plot completely and lets a bunch of goons and motor-mouths go scot-free while not saying anything on the matter. 
 
-![Rahul Gandhi's mon-key baat]({{ site.url }}/images/rahul-gandhi-notes-telegraph-ndtv.jpg)
+![My helpful screenshot]({{ site.url }}/images/rahul-gandhi-notes-telegraph-ndtv.jpg)
 
 Arnab Goswami's debates were getting painful to watch with the Congress spokespersons holding on to only one question - "Why doesn't the PM talk about this?" Seriously, why didn't he talk about this?
 
